@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": 1,
+    "version": "1.2.0",
+    "version_code": 120,
+    "download_url": "https://github.com/YOUR_USERNAME/tranzfast/releases/download/v1.2.0/tranzfast-v1.2.0.apk",
+    "changelog": "• Fixed critical bugs in payment processing\n• Improved app performance and stability\n• Added new security features\n• Enhanced user interface\n• Fixed camera upload issues\n• Optimized battery usage",
+    "release_date": "2024-01-15",
+    "minimum_version": "1.0.0",
+    "force_update": false,
+    "file_size": 26214400,
+    "is_active": true,
+    "created_at": "2024-01-15T10:30:00.000Z"
+  },
+  "metadata": {
+    "file_size_mb": "25.0 MB",
+    "compatibility": {
+      "min_android_version": "21",
+      "target_android_version": "34"
+    },
+    "update_priority": "medium",
+    "rollout_percentage": 100
+  }
+}
